@@ -34,5 +34,18 @@
     </div>
     <div class="whiteLine">
     </div>
+    <div class="indexIPhone14Pro">
+        <div class="wrapper">
+            <div class="indexIPhone14ProText">
+                <h2>iPhone 14 Pro</h2>
+                <p>Pro. Beyond.</p>
+            </div>
+            <div class="indexIPhone14ProText2">
+                    <a href=""><span id="indexIPhone14ProText2A">Learn more</span> ></a>
+                    <a href=""><span id="indexIPhone14ProText2A">Buy</span> ></a>
+                </div>
+            <img src="img/Iphone14Pro.png" alt="">
+        </div>
+    </div>
 </main>
 </html>

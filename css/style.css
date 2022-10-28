@@ -214,9 +214,62 @@
 /* white */
 
 .whiteLine{
-    padding: 5px;
+    padding: 4px;
 }
 
+/* index iphone 14 pro */
+
+.indexIPhone14Pro{
+    background: black;
+    padding-top: 30px;
+}
+
+.indexIPhone14Pro .wrapper{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.indexIPhone14ProText{
+    color: white;
+    text-align: center;
+}
+
+.indexIPhone14ProText h2{
+    font-size: 52px;
+    font-weight: 500;
+}
+
+.indexIPhone14ProText p{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.indexIPhone14ProText2{
+    text-align: center;
+}
+
+.indexIPhone14Pro img{
+    height: 500px;
+}
+
+.indexIPhone14ProText2 a{
+    text-decoration: none;
+    margin: 0px 14px 0px 14px;
+    font-size: 20px;
+    color: #0066CC;
+    font-weight: 400;
+}
+
+#indexIPhone14ProText2A:hover{
+    border-bottom: 2px solid #0066CC;
+}
+
+@media only screen and (max-width: 1000px) {
+    .indexIPhone14Pro img{
+        height: 250px;
+    }
+}
 
 
 
