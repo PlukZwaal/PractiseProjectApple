@@ -13,6 +13,9 @@
 
 .header{
     background: #313132;
+    position: fixed;
+    top: 0;
+    width: 100%
 }
 
 .header .wrapper{
@@ -67,7 +70,7 @@
 /* index ipad*/
 
 .indexIPad{
-    padding: 35px 0px 35px 0px;
+    padding: 75px 0px 35px 0px;
 }
 
 .indexIPad .wrapper{
@@ -210,8 +213,6 @@
     }
     .indexIPadProText h2{
         font-size: 50px;
-    }
-    .indexIPadProText3 a{
     }
 }
 
