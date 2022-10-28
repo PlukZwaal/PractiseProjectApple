@@ -197,9 +197,11 @@
     .indexIPadPro img{
         max-width: 350px;
         margin: 0 auto;
+        padding-top: 10px;
     }
     .indexIPadProText2 img{
         max-width: 45px;
+        padding-top: 0px;
     }
     .indexIPadProText{
         margin-top: 30px;
@@ -208,6 +210,8 @@
     }
     .indexIPadProText h2{
         font-size: 50px;
+    }
+    .indexIPadProText3 a{
     }
 }
 
