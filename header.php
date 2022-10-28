@@ -5,7 +5,7 @@
             <a href=""><i class="fa fa-apple"></i></a>
             <a class="headerBig" href="">Store</a>
             <a class="headerBig" href="">Mac</a>
-            <a class="headerBig" href="">Ipad</a>
+            <a class="headerBig" href="">iPad</a>
             <a class="headerBig" href="">Iphone</a>
             <a class="headerBig" href="">Watch</a>
             <a class="headerBig" href="">Airpods</a>
