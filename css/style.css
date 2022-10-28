@@ -1,3 +1,5 @@
+/* general */
+
 *{
     margin: 0;
     padding: 0;
@@ -7,6 +9,18 @@
 .wrapper{
     max-width: 968px;
 	margin: 0 auto;
+}
+
+.indexLearnMoreBuy a{
+    text-decoration: none;
+    margin: 0px 14px 0px 14px;
+    font-size: 20px;
+    color: #2997FF;
+    font-weight: 400;
+}
+
+#indexLearnMoreBuy:hover{
+    border-bottom: 2px solid #2997FF;
 }
 
 /* header */
@@ -100,18 +114,6 @@
     width: max-content;
     margin-bottom: 10px;
 }
-
-.indexIPadText a{
-    text-decoration: none;
-    margin: 0px 14px 0px 14px;
-    font-size: 20px;
-    color: #0066CC;
-    font-weight: 400;
-}
-
-#indexIPadText2A:hover{
-    border-bottom: 2px solid #0066CC;
-}
     
 @media only screen and (max-width: 1000px) {
     .indexIPad .wrapper{
@@ -181,18 +183,6 @@
     margin-bottom: 10px;
 }
 
-.indexIPadProText3 a{
-    text-decoration: none;
-    margin: 0px 14px 0px 14px;
-    font-size: 20px;
-    color: #0066CC;
-    font-weight: 400;
-}
-
-#indexIPadProText3A:hover{
-    border-bottom: 2px solid #0066CC;
-}
-
 @media only screen and (max-width: 1400px) {
     .indexIPadPro .wrapper{
         flex-direction: column-reverse;
@@ -256,23 +246,27 @@
 
 .indexIPhone14Pro img{
     height: 500px;
-}
-
-.indexIPhone14ProText2 a{
-    text-decoration: none;
-    margin: 0px 14px 0px 14px;
-    font-size: 20px;
-    color: #0066CC;
-    font-weight: 400;
-}
-
-#indexIPhone14ProText2A:hover{
-    border-bottom: 2px solid #0066CC;
+    padding-top: 10px;
 }
 
 @media only screen and (max-width: 1000px) {
     .indexIPhone14Pro img{
-        height: 250px;
+        height: 350px;
+    }
+    #indexIphone14ProImgBig{
+        display: none;
+    }
+    #indexIphone14ProImgSmall{
+        display: flex;
+    }
+}
+
+@media only screen and (min-width: 1001px) {
+    #indexIphone14ProImgBig{
+        display: flex;
+    }
+    #indexIphone14ProImgSmall{
+        display: none;
     }
 }
 

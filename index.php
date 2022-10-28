@@ -1,7 +1,6 @@
 <?php require_once 'head.php'; ?>
 <body>
 <?php require_once 'header.php'; ?>
-</body>
 <main>
     <div class="indexIPad">
         <div class="wrapper">
@@ -9,9 +8,9 @@
             <div class="indexIPadText">
                 <h2>iPad</h2>
                 <p>Lovable. Drawable. Magical.</p>
-                <div class="indexIPadText2">
-                    <a href=""><span id="indexIPadText2A">Learn more</span> ></a>
-                    <a href=""><span id="indexIPadText2A">Buy</span> ></a>
+                <div class="indexLearnMoreBuy">
+                    <a href=""><span id="indexLearnMoreBuy">Learn more</span> ></a>
+                    <a href=""><span id="indexLearnMoreBuy">Buy</span> ></a>
                 </div>
             </div>
         </div>
@@ -25,9 +24,9 @@
                     <p>Supercharged by</p>
                     <img src="img/m2Logo.png" alt="">
                 </div>
-                <div class="indexIPadProText3">
-                    <a href=""><span id="indexIPadProText3A">Learn more</span> ></a>
-                    <a href=""><span id="indexIPadProText3A">Buy</span> ></a>
+                <div class="indexLearnMoreBuy">
+                    <a href=""><span id="indexLearnMoreBuy">Learn more</span> ></a>
+                    <a href=""><span id="indexLearnMoreBuy">Buy</span> ></a>
                 </div>
             </div>
         </div>
@@ -40,12 +39,14 @@
                 <h2>iPhone 14 Pro</h2>
                 <p>Pro. Beyond.</p>
             </div>
-            <div class="indexIPhone14ProText2">
-                    <a href=""><span id="indexIPhone14ProText2A">Learn more</span> ></a>
-                    <a href=""><span id="indexIPhone14ProText2A">Buy</span> ></a>
-                </div>
-            <img src="img/Iphone14Pro.png" alt="">
+            <div class="indexLearnMoreBuy">
+                <a href=""><span id="indexLearnMoreBuy">Learn more</span> ></a>
+                <a href=""><span id="indexLearnMoreBuy">Buy</span> ></a>
+            </div>
+            <img id="indexIphone14ProImgBig" src="img/Iphone14Pro1.png" alt="">
+            <img id="indexIphone14ProImgSmall" src="img/Iphone14Pro2.png" alt="">
         </div>
     </div>
 </main>
+</body>
 </html>
