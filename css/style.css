@@ -16,7 +16,7 @@
 	margin: 0 auto;
 }
 
-.indexLearnMoreBuy a{
+.indexLearnMore a{
     text-decoration: none;
     margin: 0px 14px 0px 14px;
     font-size: 20px;
@@ -24,8 +24,12 @@
     font-weight: 400;
 }
 
-#indexLearnMoreBuy:hover{
+#indexLearnMore:hover{
     border-bottom: 2px solid #2997FF;
+}
+
+.whiteLine{
+    padding: 4px;
 }
 
 /* header */
@@ -211,12 +215,6 @@
     }
 }
 
-/* white */
-
-.whiteLine{
-    padding: 4px;
-}
-
 /* index iphone 14 pro */
 
 .indexIPhone14Pro{
@@ -280,7 +278,7 @@
 .indexGrid{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid: 50px;
+    grid-gap: 10px;
 }
 
 @media only screen and (max-width: 1000px) {
@@ -289,9 +287,9 @@
     }
 }
 
-/* iphone 14 */
+/* index iphone 14 */
 
-.indexGridIphone14{
+.indexGridIPhone14{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -299,20 +297,44 @@
     padding-top: 50px;
 }
 
-.indexGridIphone14 img{
+.indexGridIPhone14 img{
     height: 400px;
+    padding-top: 10px;
 }
 
-.indexGridIphone14 h2{
+.indexGridIPhone14 h2{
     font-size: 40px;
     font-weight: 500;
 }
 
-.indexGridIphone14 p{
+.indexGridIPhone14 p{
     font-size: 20px;
     padding-bottom: 10px;
 }
 
+/* index apple tv */
+
+.indexGridAppleTv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #F5F5F7;
+    padding-top: 50px;
+}
+
+.indexGridAppleTv p{
+    font-size: 20px;
+}
+
+.indexGridAppleTvP p{
+    padding: 10px 0px 10px 0px;
+    color: grey;
+    font-size: 17px;
+}
+
+#indexGridAppleTvImg{
+    height: 350px;
+}
 
 
 
