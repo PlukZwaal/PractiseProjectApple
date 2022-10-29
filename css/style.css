@@ -19,7 +19,7 @@
 .indexLearnMore a{
     text-decoration: none;
     margin: 0px 14px 0px 14px;
-    font-size: 20px;
+    font-size: 19px;
     color: #2997FF;
     font-weight: 400;
 }
@@ -28,7 +28,7 @@
     border-bottom: 2px solid #2997FF;
 }
 
-.whiteLine{
+.indexWhiteLine{
     padding: 4px;
 }
 

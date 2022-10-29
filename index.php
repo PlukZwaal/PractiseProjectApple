@@ -31,7 +31,7 @@
             </div>
         </div>
     </div>
-    <div class="whiteLine">
+    <div class="indexWhiteLine">
     </div>
     <div class="indexIPhone14Pro">
         <div class="wrapper">
@@ -62,7 +62,7 @@
             <p>The Apple experience.</p>
             <p>Cinematic in every sense</p>
             <div class="indexGridAppleTvP">
-            <p>Availablle starting 11.4</p>
+            <p>Available starting 11.4</p>
             </div>
             <div class="indexLearnMore">
                 <a href=""><span id="indexLearnMore">Learn more</span> ></a>
@@ -70,101 +70,6 @@
             </div>
             <img id="indexGridAppleTvImg" src="img/AppleTv1.png" alt="">
         </div>
-
-
-
-
-        <div class="indexGridIPhone14">
-            <h2>iPhone 14</h2>
-            <p>Big and bigger.</p>
-            <div class="indexLearnMore">
-                <a href=""><span id="indexLearnMore">Learn more</span> ></a>
-                <a href=""><span id="indexLearnMore">Buy</span> ></a>
-            </div>
-            <img src="img/iPhone141.png" alt="">
-        </div>
-        <div class="indexGridIPhone14">
-            <h2>iPhone 14</h2>
-            <p>Big and bigger.</p>
-            <div class="indexLearnMore">
-                <a href=""><span id="indexLearnMore">Learn more</span> ></a>
-                <a href=""><span id="indexLearnMore">Buy</span> ></a>
-            </div>
-            <img src="img/iPhone141.png" alt="">
-        </div>
-        <div class="indexGridIPhone14">
-            <h2>iPhone 14</h2>
-            <p>Big and bigger.</p>
-            <div class="indexLearnMore">
-                <a href=""><span id="indexLearnMore">Learn more</span> ></a>
-                <a href=""><span id="indexLearnMore">Buy</span> ></a>
-            </div>
-            <img src="img/iPhone141.png" alt="">
-        </div>
-        <div class="indexGridIPhone14">
-            <h2>iPhone 14</h2>
-            <p>Big and bigger.</p>
-            <div class="indexLearnMore">
-                <a href=""><span id="indexLearnMore">Learn more</span> ></a>
-                <a href=""><span id="indexLearnMore">Buy</span> ></a>
-            </div>
-            <img src="img/iPhone141.png" alt="">
-        </div>
-    </div>
-    <div class="whiteLine">
-    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>    <div class="whiteLine">
-    </div>
-    </div>
 </main>
 </body>
 </html>
