@@ -12,7 +12,7 @@
 }
 
 .wrapper2{
-    max-width: 2000px;
+    max-width: 2600px;
 	margin: 0 auto;
 }
 
@@ -50,7 +50,7 @@
 .header a{
     color: #CCCCCC;
     text-decoration: none;
-    padding: 14px 0px 14px 0px;
+    padding: 15px 0px 15px 0px;
     font-size: 13px;
     font-weight: 300;
     transition: color 0.75s;
@@ -219,7 +219,7 @@
 
 .indexIPhone14Pro{
     background: black;
-    padding-top: 30px;
+    padding-top: 40px;
 }
 
 .indexIPhone14Pro .wrapper{
@@ -335,8 +335,3 @@
 #indexGridAppleTvImg{
     height: 350px;
 }
-
-
-
-
-  

@@ -15,7 +15,7 @@
             </div>
         </div>
     </div>
-    <div class="indexIPadPro">
+    <div class="indexIPadPro wrapper2">
         <div class="wrapper">
             <img src="img/iPadPro1.jpg" alt="">
             <div class="indexIPadProText">
@@ -33,7 +33,7 @@
     </div>
     <div class="indexWhiteLine">
     </div>
-    <div class="indexIPhone14Pro">
+    <div class="indexIPhone14Pro wrapper2">
         <div class="wrapper">
             <div class="indexIPhone14ProText">
                 <h2>iPhone 14 Pro</h2>
@@ -62,7 +62,7 @@
             <p>The Apple experience.</p>
             <p>Cinematic in every sense</p>
             <div class="indexGridAppleTvP">
-            <p>Available starting 11.4</p>
+                <p>Available starting 11.4</p>
             </div>
             <div class="indexLearnMore">
                 <a href=""><span id="indexLearnMore">Learn more</span> ></a>
@@ -70,6 +70,7 @@
             </div>
             <img id="indexGridAppleTvImg" src="img/AppleTv1.png" alt="">
         </div>
+    </div>
 </main>
 </body>
 </html>
