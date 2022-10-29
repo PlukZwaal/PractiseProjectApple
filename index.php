@@ -47,6 +47,80 @@
             <img id="indexIphone14ProImgSmall" src="img/Iphone14Pro2.png" alt="">
         </div>
     </div>
+    <div class="indexGrid wrapper2">
+        <div class="indexGridIphone14">
+            <h2>iPhone 14</h2>
+            <p>Big and bigger.</p>
+            <div class="indexLearnMoreBuy">
+                <a href=""><span id="indexLearnMoreBuy">Learn more</span> ></a>
+                <a href=""><span id="indexLearnMoreBuy">Buy</span> ></a>
+            </div>
+            <img src="img/iPhone141.png" alt="">
+        </div>
+        <div class="indexGridItem">
+            <p>eeeeeeeeeeee</p>
+        </div>
+        <div class="indexGridItem">
+            <p>eeeeeeeeeeee</p>
+        </div>
+        <div class="indexGridItem">
+            <p>eeeeeeeeeeee</p>
+        </div>
+    </div>
+    <div class="whiteLine">
+    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>    <div class="whiteLine">
+    </div>
+    </div>
 </main>
 </body>
 </html>
