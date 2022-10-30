@@ -270,6 +270,12 @@
     #indexIphone14ProImgSmall{
         display: flex;
     }
+    .indexIPhone14ProText h2{
+        font-size: 30px;
+    }
+    .indexIPhone14ProText p{
+        font-size: 20px;
+    }
 }
 
 @media only screen and (min-width: 1001px) {
@@ -346,6 +352,12 @@
     height: 350px;
 }
 
+@media only screen and (max-width: 1000px) {
+    #indexGridAppleTvImg{
+        height: 275px;
+    }
+}
+
 /* index apple watch ultra */
 
 .indexGridAppleWatchUltra{
@@ -399,10 +411,16 @@
 
 @media only screen and (max-width: 1000px) {
     .indexGridAppleWatchUltra img{
-        height: 310px;
+        height: 340px;
         padding-top: 50px;
-        margin-left: -300px;
+        margin-left: -370px;
         display: flex;
+    }
+    .indexGridAppleWatchUltra2 h2{
+        font-size: 25px;
+    }
+    .indexGridAppleWatchUltra .fa-apple{
+        font-size: 25px;
     }
 }
 
@@ -461,5 +479,11 @@
         color: red;
         font-weight: 400;
         font-size: 12px;
+    }
+    .indexGridAppleWatchSeries82 h2{
+        font-size: 25px;
+    }
+    .indexGridAppleWatchSeries8 .fa-apple{
+        font-size: 25px;
     }
 }
