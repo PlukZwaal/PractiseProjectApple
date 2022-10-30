@@ -362,9 +362,9 @@
 }
 
 .indexGridAppleWatchUltra img{
-    height: 300px;
-    max-width: auto;
+    height: 275px;
     padding-top: 100px;
+    margin-top: auto;
 }
 
 .indexGridAppleWatchUltra .fa-apple{
@@ -392,7 +392,8 @@
 
 @media only screen and (max-width: 1550px) {
     .indexGridAppleWatchUltra img{
-        height: 200px;
+        height: 180px;
+        margin-top: auto;
     }
 }
 
@@ -402,5 +403,63 @@
         padding-top: 50px;
         margin-left: -300px;
         display: flex;
+    }
+}
+
+/* index apple watch series 8 */
+
+.indexGridAppleWatchSeries8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: black;
+    padding-top: 50px;
+}
+
+.indexGridAppleWatchSeries82{
+    display: flex;
+    align-items: center;
+}
+
+.indexGridAppleWatchSeries8 img{
+    height: 375px;
+    padding-top: 25px;
+}
+
+.indexGridAppleWatchSeries8 .fa-apple{
+    font-size: 33px;
+    margin-right: 5px;
+    color: white;
+}
+
+.indexGridAppleWatchSeries82 h2{
+    font-weight: 700;
+    font-size: 32px;
+    color: white;
+}
+
+#indexGridAppleWatchSeries82p{
+    color: red;
+    font-weight: 400;
+}
+
+.indexGridAppleWatchSeries8  .indexLearnMore2{
+    padding-top: 10px;
+}
+
+#indexGridAppleWatchSeries82p2{
+    font-size: 20px;
+    color: white;
+}
+
+@media only screen and (max-width: 1000px) {
+    .indexGridAppleWatchSeries8 img{
+        height: 260px;
+        padding-top: 50px;
+    }
+    #indexGridAppleWatchSeries82p{
+        color: red;
+        font-weight: 400;
+        font-size: 12px;
     }
 }

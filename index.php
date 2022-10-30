@@ -83,6 +83,19 @@
             </div>
             <img src="img/AppleWatchUltra1.png" alt="">
         </div>
+        <div class="indexGridAppleWatchSeries8">
+            <div class="indexGridAppleWatchSeries82">
+                <p><i class="fa fa-apple"></i></p>
+                <h2>WATCH</h2>
+            </div>
+            <p><span id="indexGridAppleWatchSeries82p">SERIES 8 </span></p>
+            <p><span id="indexGridAppleWatchSeries82p2">A healty leap ahead.</span></p>
+            <div class="indexLearnMore2">
+                <a href=""><span id="indexLearnMore">Learn more</span> ></a>
+                <a href=""><span id="indexLearnMore">Buy</span> ></a>
+            </div>
+            <img src="img/AppleWatchSeries81.png" alt="">
+        </div>
     </div>
 </main>
 </body>
