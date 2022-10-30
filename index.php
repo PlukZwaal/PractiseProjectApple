@@ -70,6 +70,19 @@
             </div>
             <img id="indexGridAppleTvImg" src="img/AppleTv1.png" alt="">
         </div>
+        <div class="indexGridAppleWatchUltra">
+            <div class="indexGridAppleWatchUltra2">
+                <p><i class="fa fa-apple"></i></p>
+                <h2>WATCH</h2>
+            </div>
+            <p><span id="indexGridAppleWatchUltra2p">ULTRA</span></p>
+            <p><span id="indexGridAppleWatchUltra2p2">Adventure awaits.</span></p>
+            <div class="indexLearnMore2">
+                <a href=""><span id="indexLearnMore">Learn more</span> ></a>
+                <a href=""><span id="indexLearnMore">Buy</span> ></a>
+            </div>
+            <img src="img/AppleWatchUltra1.png" alt="">
+        </div>
     </div>
 </main>
 </body>
