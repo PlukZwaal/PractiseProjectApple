@@ -51,7 +51,7 @@
         <div class="indexGridIPhone14">
             <h2>iPhone 14</h2>
             <p>Big and bigger.</p>
-            <div class="indexLearnMore">
+            <div class="indexLearnMore2">
                 <a href=""><span id="indexLearnMore">Learn more</span> ></a>
                 <a href=""><span id="indexLearnMore">Buy</span> ></a>
             </div>
@@ -64,7 +64,7 @@
             <div class="indexGridAppleTvP">
                 <p>Available starting 11.4</p>
             </div>
-            <div class="indexLearnMore">
+            <div class="indexLearnMore2">
                 <a href=""><span id="indexLearnMore">Learn more</span> ></a>
                 <a href=""><span id="indexLearnMore">Order Now</span> ></a>
             </div>

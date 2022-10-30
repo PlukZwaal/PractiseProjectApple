@@ -6,7 +6,7 @@
             <a class="headerBig" href="">Store</a>
             <a class="headerBig" href="">Mac</a>
             <a class="headerBig" href="">iPad</a>
-            <a class="headerBig" href="">Iphone</a>
+            <a class="headerBig" href="">iPhone</a>
             <a class="headerBig" href="">Watch</a>
             <a class="headerBig" href="">Airpods</a>
             <a class="headerBig" href="">Tv & Home</a>
